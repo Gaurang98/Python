@@ -1,2 +1,2 @@
 # Python
-## Maintainer: @gaurang98
+## Maintainer: [Gaurang](https://github.com/Gaurang98)
